@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 282 74">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M265,9V1h-8V9Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M257,17V9h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd"
+        d="M241,73V33H209V49h-8V73Zm-80,0V65h8V33H137v8h-8V73Zm-40,0V65H105V41h16V33H97v8H89V73ZM81,73V65H73V41h8V33H49v8h8V65H49v8ZM17,73V57H41V33H9v8H1V73Zm216-8V57H217v8Zm-80,0V41h-8V65Zm40-8V49H177v8Zm40-8V41H217v8ZM25,49V41H17v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M273,17V9h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M249,25V17h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M281,25V17h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M257,33V25h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M273,33V25h-8v8Z" />
+      <path style="fill: #ffffff; fill-rule: evenodd" d="M265,41V33h-8v8Z" />
+    </g>
+  </g>
+</svg>
